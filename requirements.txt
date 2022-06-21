@@ -14,7 +14,7 @@ jieba==0.39
 Jinja2==2.10.1
 jmespath==0.9.4
 MarkupSafe==1.1.1
-numpy==1.17.0
+numpy==1.22.0
 pyltp==0.2.1
 PyMySQL==0.9.3
 python-dateutil==2.8.0
